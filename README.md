@@ -35,4 +35,4 @@ Cet exercice avait pour objectif de **réviser les bases du HTML et du CSS** à 
 
 ## 📸 Aperçu  
 
-![Aperçu du projet](./screenshot.png)
+Le site: https://zergoxsix.github.io/correction-temoignage/
