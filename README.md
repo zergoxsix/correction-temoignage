@@ -35,5 +35,4 @@ Cet exercice avait pour objectif de **réviser les bases du HTML et du CSS** à 
 
 ## 📸 Aperçu  
 
-*(Ajoute ici une capture d’écran du rendu si tu en as une, par exemple :)*  
 ![Aperçu du projet](./screenshot.png)
